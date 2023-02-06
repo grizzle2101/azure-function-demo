@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_function_demo": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7152 --pause-on-error",
+      "launchBrowser": true
+    }
+  }
+}
